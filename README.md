@@ -12,4 +12,4 @@ The data used in this project is https://www.kaggle.com/datasets/neuromusic/avoc
 2. Increase in volume correlates with increase in sales in small bags. Which means most purchases are using small bags.
 3. State with biggest volume is California. 
 4. State with the highest average price is Hartford Springfield.
-5. Time series prediction of the avocado price using linear regression is achieved with RSME 8.5% 
+5. Time series prediction of the avocado price using linear regression is achieved with MAPE 8.5% 
