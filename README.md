@@ -2,4 +2,7 @@
 
 The data used in this project is https://www.kaggle.com/datasets/neuromusic/avocado-prices
 
-I used exploratory data analysis to gain insight on this data, then used linear regression for prediction model.
+Objectives:
+1. Use exploratory data analysis to gain insight on this data
+2. Use linear regression for prediction model.
+3. Learning time series prediction.
